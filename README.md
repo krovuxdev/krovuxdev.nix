@@ -48,7 +48,7 @@ sudo nixos-rebuild switch hosts/Nixos-Green/
 -   **Compositor**: [picom](https://github.com/yshui/picom)
 -   **Browser**: [firefox](https://www.mozilla.org/en-US/firefox/)
 -   **File Manager**: [thunar](https://github.com/xfce-mirror/thunar)
--   **Application Launcher**: [rofi](https://github.com/davatorium/rofi)
+-   **Apps Launcher**: [rofi](https://github.com/davatorium/rofi)
 <details >
 <summary style="color:red;">Do you want to see more? do here click<-- </summary>
 <img src="https://github.com/krovuxdev/krovuxdev.nix/assets/62192487/d6d97a13-54e7-44fa-adaa-c22a11924af1" alt="img" align="left" width="640px">
