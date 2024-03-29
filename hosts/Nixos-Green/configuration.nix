@@ -60,6 +60,7 @@
     #Control keyboard | volume
     pamixer
     playerctl
+    #home-manager
   ];
   nix.settings.experimental-features = ["nix-command" "flakes"];
   system.stateVersion = "23.11"; # Did you read the comment?
