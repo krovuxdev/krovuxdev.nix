@@ -39,7 +39,7 @@ sudo nixos-rebuild switch hosts/Nixos-Green/
 
 
 
-<img src="https://github.com/krovuxdev/krovuxdev.nix/assets/62192487/f7f376fd-bc14-40d6-90af-47f68b10b82f" alt="img" align="left" width="700px">
+<img src="https://github.com/krovuxdev/krovuxdev.nix/assets/62192487/f7f376fd-bc14-40d6-90af-47f68b10b82f" alt="img" align="left" width="640px">
 
 -   **WM**: [Leftwm](https://nixos.org/)
 -   **OS**: [Nixos](http://nixos.org/)
@@ -51,5 +51,5 @@ sudo nixos-rebuild switch hosts/Nixos-Green/
 -   **Application Launcher**: [rofi](https://github.com/davatorium/rofi)
 <details >
 <summary style="color:red;">Do you want to see more? do here click<-- </summary>
-<img src="https://github.com/krovuxdev/krovuxdev.nix/assets/62192487/d6d97a13-54e7-44fa-adaa-c22a11924af1" alt="img" align="left" width="700px">
+<img src="https://github.com/krovuxdev/krovuxdev.nix/assets/62192487/d6d97a13-54e7-44fa-adaa-c22a11924af1" alt="img" align="left" width="640px">
 </details>
