@@ -1,3 +1,8 @@
+<h1 align="center">
+   <img src="https://github.com/krovuxdev/krovuxdev.nix/assets/62192487/52d1bd3c-74df-4cd7-994b-819c0c4bae95" width="100"  style="border-radius: 50%; overflow: hidden;"/><br/>
+  <img src="https://github.com/krovuxdev/nix-skeleton/assets/62192487/01aa0057-da80-4e11-8724-b3da458bcc79" width="30"> Nixos Configs for <a href="https://github.com/krovuxdev">krovuxdev</a>
+</h1>
+
 # Getting started
 > [!IMPORTANT]
 You should already installed nixOS.
